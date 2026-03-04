@@ -66,6 +66,8 @@ body {
   padding: 0 100px;
 }
 
+/* LEFT */
+
 .hero-text {
   display: flex;
   flex-direction: column;
@@ -89,6 +91,8 @@ body {
 .arrow {
   font-size: 28px;
 }
+
+/* RIGHT */
 
 .hero-image img {
   width: 100%;
